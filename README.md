@@ -13,6 +13,9 @@ Duartion: JUNE 25th 2024 TO AUGUST 25TH 2024
 
 Project: WEATHER FORECAST APP
 
+Output:
+![Screenshot 2024-08-25 173606](https://github.com/user-attachments/assets/41919c12-2d2d-4408-aee7-f7117f7aca93)
+
 Objective:
 To create a user-friendly web application that allows users to quickly and easily search for weather information based on a specific location. By providing a simple interface with a search bar, the app enables users to input their desired location and receive relevant weather data, including temperature, weather description, and a corresponding icon. The app aims to streamline the process of accessing weather forecasts, making it a convenient tool for individuals who want to stay informed about the weather conditions in their chosen locations.
 
